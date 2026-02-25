@@ -14,11 +14,3 @@ Evaluation: Tracks training/validation loss and accuracy, generates confusion ma
 Visualization: Plots of training/validation loss and accuracy per epoch.
 
 Model Saving: Saves trained weights for later inference.
-
-Dataset Structure
-
-dataset/
-├── train/
-│   └── <class folders>
-└── validation/
-    └── <class folders>
